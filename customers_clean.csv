@@ -1,7 +1,7 @@
-id,name,city
-1,Anna,stockholm
-2,Björn,stockholm
-3,Cecilia,stockholm
-4,David,upplands väsby
-5,Elin,upplands väsby
-6,Fredrik,göteborg
+id,name,city,signup_date
+1,Anna,Stockholm,2024-01-05
+2,Björn,Stockholm,2024-02-05
+3,Cecilia,Stockholm,2024-03-15
+4,David,Upplands Väsby,2024-01-20
+5,Elin,Upplands Väsby,2024-02-28
+6,Fredrik,Göteborg,
